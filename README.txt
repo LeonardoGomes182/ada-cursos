@@ -1,3 +1,5 @@
+//-----------------COMANDO BÁSICO DO GIT-------------------
+
 git diff -  Informa a modificação realizada. 
 //---------------------------------------------------
 
@@ -10,5 +12,5 @@ Mudar do estado "staged" quando realizado "git add" e retornar para o "Modified"
 
 git restore --staged .\NomeDoArquivo
 
-//---------------------------------
+//----------------------------------------------------------
 git log - histórico de commit 
