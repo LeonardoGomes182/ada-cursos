@@ -14,3 +14,6 @@ git restore --staged .\NomeDoArquivo
 
 //----------------------------------------------------------
 git log - histórico de commit 
+
+git fetch - informa o que tem de alteração(diferente) do repositório com a local. Não 
+
